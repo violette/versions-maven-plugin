@@ -104,7 +104,7 @@
     <junitBomVersion>5.8.2</junitBomVersion>
     <mavenVersion>3.0.5</mavenVersion>
     <wagonVersion>3.4.0</wagonVersion>
-    <doxiaVersion>1.10</doxiaVersion>
+    <doxiaVersion>1.11.1</doxiaVersion>
     <doxia-sitetoolsVersion>1.10</doxia-sitetoolsVersion>
     <pluginVersion>${project.version}</pluginVersion>
     <sitePluginVersion>3.7</sitePluginVersion>
@@ -112,7 +112,7 @@
 
     <assertj.version>3.22.0</assertj.version>
     <commons-lang3.version>3.12.0</commons-lang3.version>
-    <eclipse.jgit.version>5.13.0.202109080827-r</eclipse.jgit.version>
+    <eclipse.jgit.version>6.1.0.202203080745-r</eclipse.jgit.version>
     <maven.common.artifact.filters.version>3.2.0</maven.common.artifact.filters.version>
     <maven.plugin.annotations.version>3.6.1</maven.plugin.annotations.version>
     <maven.reporting.api.version>3.0</maven.reporting.api.version>
