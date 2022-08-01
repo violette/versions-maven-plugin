@@ -115,7 +115,7 @@
     <eclipse.jgit.version>6.1.0.202203080745-r</eclipse.jgit.version>
     <maven.common.artifact.filters.version>3.2.0</maven.common.artifact.filters.version>
     <maven.plugin.annotations.version>3.6.1</maven.plugin.annotations.version>
-    <maven.reporting.api.version>3.0</maven.reporting.api.version>
+    <maven.reporting.api.version>3.1.1</maven.reporting.api.version>
     <maven.reporting.impl.version>3.0.0</maven.reporting.impl.version>
     <mockito.version>4.5.1</mockito.version>
     <plexus.container.default.version>2.1.0</plexus.container.default.version>
