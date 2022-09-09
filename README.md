@@ -15,6 +15,8 @@ I'd choose JGIT to manage the local commits.
 
 - Compile the project and make sure there is no upper version of the Versions Maven Plugin in your .m2 folder
 - Run the command from your project - on master:
+`mvn org.codehaus.mojo:versions-maven-plugin:2.9-1:update-properties -Dmaven.version.rules=file:///... -DgenerateBackupPoms=false`
+or
 `mvn versions:update-properties -Dmaven.version.rules=file:///path_to_rules_file -DgenerateBackupPoms=false`
 
 Once executed:
